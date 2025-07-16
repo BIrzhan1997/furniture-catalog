@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Диван Asajai",
+        "type": "диван",
+        "size": "230×90×85 см",
+        "price": 260000,
+        "color": "бежевый",
+        "image": "https://via.placeholder.com/300x200?text=Asajai"
+    },
+    {
+        "name": "Кровать Queen",
+        "type": "кровать",
+        "size": "200×160 см",
+        "price": 320000,
+        "color": "синий",
+        "image": "https://via.placeholder.com/300x200?text=Queen"
+    },
+    {
+        "name": "Пуфик Box",
+        "type": "пуфик",
+        "size": "60×60×40 см",
+        "price": 60000,
+        "color": "серый",
+        "image": "https://via.placeholder.com/300x200?text=Box"
+    },
+    {
+        "name": "Кровать Queen",
+        "type": "кровать",
+        "size": "200×160 см",
+        "price": 320000,
+        "color": "синий",
+        "image": "https://via.placeholder.com/300x200?text=Queen"
+    },
+    {
+        "name": "Пуфик Box",
+        "type": "пуфик",
+        "size": "60×60×40 см",
+        "price": 60000,
+        "color": "серый",
+        "image": "https://via.placeholder.com/300x200?text=Box"
+    },
+    {
+        "name": "Кровать Queen",
+        "type": "кровать",
+        "size": "200×160 см",
+        "price": 320000,
+        "color": "синий",
+        "image": "https://via.placeholder.com/300x200?text=Queen"
+    },
+    {
+        "name": "Пуфик Box",
+        "type": "пуфик",
+        "size": "60×60×40 см",
+        "price": 60000,
+        "color": "серый",
+        "image": "https://via.placeholder.com/300x200?text=Box"
+    },
+    {
+        "name": "Кровать Queen",
+        "type": "кровать",
+        "size": "200×160 см",
+        "price": 320000,
+        "color": "синий",
+        "image": "https://via.placeholder.com/300x200?text=Queen"
+    },
+    {
+        "name": "Пуфик Box",
+        "type": "пуфик",
+        "size": "60×60×40 см",
+        "price": 60000,
+        "color": "серый",
+        "image": "https://via.placeholder.com/300x200?text=Box"
+    }
+]

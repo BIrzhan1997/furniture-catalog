@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Каталог мебели AsaJai</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+
+    <header>
+        <h1>Каталог мебели AsaJai</h1>
+    </header>
+
+    <!-- 🔎 Фильтр -->
+    <section class="filters">
+        <select id="typeFilter">
+            <option value="all">Все типы</option>
+            <option value="диван">Диван</option>
+            <option value="кровать">Кровать</option>
+            <option value="пуфик">Пуфик</option>
+            <option value="стул">Стул</option>
+        </select>
+
+        <input type="number" id="priceFilter" placeholder="Макс. цена (тг)" />
+
+        <button id="applyFilter">Применить</button>
+    </section>
+
+    <!-- 📦 Каталог -->
+    <main>
+        <div id="catalog" class="catalog"></div>
+    </main>
+
+    <footer>
+        <p>Связь: WhatsApp <a href="https://wa.me/77075834925" target="_blank">+7 707 583 4925</a></p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
