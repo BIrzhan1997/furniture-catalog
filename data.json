@@ -5,7 +5,7 @@
         "size": "230×90×85 см",
         "price": 260000,
         "color": "бежевый",
-        "image": "https://via.placeholder.com/300x200?text=Asajai"
+        "image": "img/диван.jpg"
     },
     {
         "name": "Кровать Queen",
@@ -13,6 +13,6 @@
         "size": "200×160 см",
         "price": 320000,
         "color": "синий",
-        "image": "https://via.placeholder.com/300x200?text=Queen"
+        "image": "img/кроватьй.webp"
     }
 ]
