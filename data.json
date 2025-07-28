@@ -344,27 +344,763 @@
         "image": "img/диван/ZhibekJol.jpg"
     },
     {
-        "name": "Кровать Queen",
+        "name": "AıaqtyOrın",
         "type": "кровать",
-        "size": "200×160 см",
-        "price": 15000,
+        "size": "180*200см",
+        "price": 160000,
         "color": "синий",
-        "image": "img/кроватьй.webp"
+        "image": "img/кровать/AıaqtyOrın.jpg"
     },
     {
-        "name": "Диван Asajai",
+        "name": "AıTúsі",
+        "type": "кровать",
+        "size": "180*200см",
+        "price": 160000,
+        "color": "синий",
+        "image": "img/кровать/AıTúsі.jpg"
+    },
+    {
+        "name": "AlaGún",
+        "type": "кровать",
+        "size": "90*200см",
+        "price": 90000,
+        "color": "синий",
+        "image": "img/кровать/AlaGún.jpg"
+    },
+    {
+        "name": "AltynTúsіk",
+        "type": "кровать",
+        "size": "180*200см",
+        "price": 240000,
+        "color": "синий",
+        "image": "img/кровать/AltynTúsіk.jpg"
+    },
+    {
+        "name": "Aq Tús",
+        "type": "кровать",
+        "size": "180*200см",
+        "price": 250000,
+        "color": "синий",
+        "image": "img/кровать/Aq Tús.jpg"
+    },
+    {
+        "name": "Aqaiq",
+        "type": "кровать",
+        "size": "180*200см",
+        "price": 210000,
+        "color": "синий",
+        "image": "img/кровать/Aqaiq.jpg"
+    },
+    {
+        "name": "AqyldyOryn",
+        "type": "кровать",
+        "size": "90*200см",
+        "price": 100000,
+        "color": "синий",
+        "image": "img/кровать/AqyldyOryn.jpg"
+    },
+    {
+        "name": "ArmanJai",
+        "type": "кровать",
+        "size": "180*200см",
+        "price": 240000,
+        "color": "синий",
+        "image": "img/кровать/ArmanJai.jpg"
+    },
+    {
+        "name": "Aýyzsha",
+        "type": "кровать",
+        "size": "180*200см",
+        "price": 210000,
+        "color": "синий",
+        "image": "img/кровать/Aýyzsha.jpg"
+    },
+    {
+        "name": "Aqaiq",
+        "type": "кровать",
+        "size": "180*200см",
+        "price": 200000,
+        "color": "синий",
+        "image": "img/кровать/Aqaiq.jpg"
+    },
+    {
+        "name": "Balbǵy Tús",
+        "type": "кровать",
+        "size": "180*200см",
+        "price": 250000,
+        "color": "синий",
+        "image": "img/кровать/Balbǵy Tús.jpg"
+    },
+    {
+        "name": "BébesіkJai",
+        "type": "кровать",
+        "size": "180*200см",
+        "price": 140000,
+        "color": "синий",
+        "image": "img/кровать/BébesіkJai.jpg"
+    },
+    {
+        "name": "BúginTúnі",
+        "type": "кровать",
+        "size": "180*200см",
+        "price": 180000,
+        "color": "синий",
+        "image": "img/кровать/BúginTúnі.jpg"
+    },
+    {
+        "name": "JanBaqyt",
+        "type": "кровать",
+        "size": "180*200см",
+        "price": 210000,
+        "color": "синий",
+        "image": "img/кровать/JanBaqyt.jpg"
+    },
+    {
+        "name": "JumsaqTúsіk",
+        "type": "кровать",
+        "size": "180*200см",
+        "price": 130000,
+        "color": "синий",
+        "image": "img/кровать/JumsaqTúsіk.jpg"
+    },
+    {
+        "name": "Jұmaqtai",
+        "type": "кровать",
+        "size": "90*200см",
+        "price": 120000,
+        "color": "синий",
+        "image": "img/кровать/Jұmaqtai.jpg"
+    },
+    {
+        "name": "Kók Tún",
+        "type": "кровать",
+        "size": "160*200см",
+        "price": 150000,
+        "color": "синий",
+        "image": "img/кровать/Kók Tún.jpg"
+    },
+    {
+        "name": "Kókshіe",
+        "type": "кровать",
+        "size": "180*200см",
+        "price": 160000,
+        "color": "синий",
+        "image": "img/кровать/Kókshіe.jpg"
+    },
+    {
+        "name": "KókZhaily",
+        "type": "кровать",
+        "size": "90*200см",
+        "price": 100000,
+        "color": "синий",
+        "image": "img/кровать/KókZhaily.jpg"
+    },
+    {
+        "name": "KókZhal",
+        "type": "кровать",
+        "size": "180*200см",
+        "price": 180000,
+        "color": "синий",
+        "image": "img/кровать/KókZhal.jpg"
+    },
+    {
+        "name": "KúńdelikTús",
+        "type": "кровать",
+        "size": "180*200см",
+        "price": 220000,
+        "color": "синий",
+        "image": "img/кровать/KúńdelikTús.jpg"
+    },
+    {
+        "name": "KúnNúr",
+        "type": "кровать",
+        "size": "90*200см",
+        "price": 90000,
+        "color": "синий",
+        "image": "img/кровать/KúnNúr.jpg"
+    },
+    {
+        "name": "NúrShańyraq",
+        "type": "кровать",
+        "size": "180*200см",
+        "price": 200000,
+        "color": "синий",
+        "image": "img/кровать/NúrShańyraq.jpg"
+    },
+    {
+        "name": "Qarańǵy Tún",
+        "type": "кровать",
+        "size": "120*200см",
+        "price": 120000,
+        "color": "синий",
+        "image": "img/кровать/Qarańǵy Tún.jpg"
+    },
+    {
+        "name": "QumBeldesі",
+        "type": "кровать",
+        "size": "90*200см",
+        "price": 120000,
+        "color": "синий",
+        "image": "img/кровать/QumBeldesі.jpg"
+    },
+    {
+        "name": "Qus Túsіk",
+        "type": "кровать",
+        "size": "180*200см",
+        "price": 140000,
+        "color": "синий",
+        "image": "img/кровать/Qus Túsіk.jpg"
+    },
+    {
+        "name": "QyranTúsіk",
+        "type": "кровать",
+        "size": "180*200см",
+        "price": 140000,
+        "color": "синий",
+        "image": "img/кровать/QyranTúsіk.jpg"
+    },
+    {
+        "name": "Qyrsyq",
+        "type": "кровать",
+        "size": "160*200см",
+        "price": 140000,
+        "color": "синий",
+        "image": "img/кровать/Qyrsyq.jpg"
+    },
+    {
+        "name": "QyrsyqOramal",
+        "type": "кровать",
+        "size": "200*90см",
+        "price": 90000,
+        "color": "синий",
+        "image": "img/кровать/QyrsyqOramal.jpg"
+    },
+    {
+        "name": "SáuleKólegi",
+        "type": "кровать",
+        "size": "180*200см",
+        "price": 140000,
+        "color": "синий",
+        "image": "img/кровать/SáuleKólegi.jpg"
+    },
+    {
+        "name": "Shúldіr",
+        "type": "кровать",
+        "size": "180*200см",
+        "price": 220000,
+        "color": "синий",
+        "image": "img/кровать/Shúldіr.jpg"
+    },
+    {
+        "name": "Shyńaiy Demalys",
+        "type": "кровать",
+        "size": "200*90см",
+        "price": 100000,
+        "color": "синий",
+        "image": "img/кровать/Shyńaiy Demalys.jpg"
+    },
+    {
+        "name": "SýıektіOrın",
+        "type": "кровать",
+        "size": "180*200см",
+        "price": 140000,
+        "color": "синий",
+        "image": "img/кровать/SýıektіOrın.jpg"
+    },
+    {
+        "name": "TúsAlańy",
+        "type": "кровать",
+        "size": "180*200см",
+        "price": 140000,
+        "color": "синий",
+        "image": "img/кровать/TúsAlańy.jpg"
+    },
+    {
+        "name": "TúsAlemі",
+        "type": "кровать",
+        "size": "180*200см",
+        "price": 140000,
+        "color": "синий",
+        "image": "img/кровать/TúsAlemі.jpg"
+    },
+    {
+        "name": "TúskiBaý",
+        "type": "кровать",
+        "size": "180*200см",
+        "price": 160000,
+        "color": "синий",
+        "image": "img/кровать/TúskiBaý.jpg"
+    },
+    {
+        "name": "TúsKórpe",
+        "type": "кровать",
+        "size": "180*200см",
+        "price": 140000,
+        "color": "синий",
+        "image": "img/кровать/TúsKórpe.jpg"
+    },
+    {
+        "name": "TúsіkAıbaq",
+        "type": "кровать",
+        "size": "200*90см",
+        "price": 90000,
+        "color": "синий",
+        "image": "img/кровать/TúsіkAıbaq.jpg"
+    },
+    {
+        "name": "TúsіkArmandy",
+        "type": "кровать",
+        "size": "180*200см",
+        "price": 240000,
+        "color": "синий",
+        "image": "img/кровать/TúsіkArmandy.jpg"
+    },
+    {
+        "name": "TúsіkNury",
+        "type": "кровать",
+        "size": "160*200см",
+        "price": 130000,
+        "color": "синий",
+        "image": "img/кровать/TúsіkNury.jpg"
+    },
+    {
+        "name": "TúsіkShatyr",
+        "type": "кровать",
+        "size": "160*200см",
+        "price": 140000,
+        "color": "синий",
+        "image": "img/кровать/TúsіkShatyr.jpg"
+    },
+    {
+        "name": "TynysTús",
+        "type": "кровать",
+        "size": "180*200см",
+        "price": 160000,
+        "color": "синий",
+        "image": "img/кровать/TynysTús.jpg"
+    },
+    {
+        "name": "Yńgai Orın",
+        "type": "кровать",
+        "size": "90*200см",
+        "price": 90000,
+        "color": "синий",
+        "image": "img/кровать/Yńgai Orın.jpg"
+    },
+    {
+        "name": "ZhailyTúnі",
+        "type": "кровать",
+        "size": "180*200см",
+        "price": 190000,
+        "color": "синий",
+        "image": "img/кровать/ZhailyTúnі.jpg"
+    },
+    {
+        "name": "ZhaılyOramal",
+        "type": "кровать",
+        "size": "180*200см",
+        "price": 140000,
+        "color": "синий",
+        "image": "img/кровать/ZhaılyOramal.jpg"
+    },
+    {
+        "name": "Zhansyry",
+        "type": "кровать",
+        "size": "180*200см",
+        "price": 210000,
+        "color": "синий",
+        "image": "img/кровать/Zhansyry.jpg"
+    },
+    {
+        "name": "ZhýlıqShańyraq",
+        "type": "кровать",
+        "size": "180*200см",
+        "price": 270000,
+        "color": "синий",
+        "image": "img/кровать/ZhýlıqShańyraq.jpg"
+    },
+    {
+        "name": "ZhylýKesh",
+        "type": "кровать",
+        "size": "90*200см",
+        "price": 120000,
+        "color": "синий",
+        "image": "img/кровать/ZhylýKesh.jpg"
+    },
+    {
+        "name": "Aqqan",
         "type": "Стул",
-        "size": "80×50×50 см",
-        "price": 260000,
+        "size": "65*65*80см",
+        "price": 60000,
         "color": "бежевый",
-        "image": "img/диван.jpg"
+        "image": "img/стулья/Aqqan.jpg"
     },
     {
-        "name": "Кровать Queen",
+        "name": "AsylOrnyq",
+        "type": "Стул",
+        "size": "65*65*80см",
+        "price": 60000,
+        "color": "бежевый",
+        "image": "img/стулья/AsylOrnyq.jpg"
+    },
+    {
+        "name": "BatyrOrny",
+        "type": "Стул",
+        "size": "60*60*70см",
+        "price": 65000,
+        "color": "бежевый",
+        "image": "img/стулья/BatyrOrny.jpg"
+    },
+    {
+        "name": "DóńgeleqOrny",
+        "type": "Стул",
+        "size": "60*60*80см",
+        "price": 55000,
+        "color": "бежевый",
+        "image": "img/стулья/DóńgeleqOrny.jpg"
+    },
+    {
+        "name": "JartyAq",
+        "type": "Стул",
+        "size": "50*50*80см",
+        "price": 30000,
+        "color": "бежевый",
+        "image": "img/стулья/JartyAq.jpg"
+    },
+    {
+        "name": "KókOrnyq",
+        "type": "Стул",
+        "size": "60*60*70см",
+        "price": 55000,
+        "color": "бежевый",
+        "image": "img/стулья/KókOrnyq.jpg"
+    },
+    {
+        "name": "Náreste",
+        "type": "Стул",
+        "size": "50*50*80см",
+        "price": 27000,
+        "color": "бежевый",
+        "image": "img/стулья/Náreste.jpg"
+    },
+    {
+        "name": "Oryndyq",
+        "type": "Стул",
+        "size": "60*60*70см",
+        "price": 32000,
+        "color": "бежевый",
+        "image": "img/стулья/Oryndyq.jpg"
+    },
+    {
+        "name": "Qanattyq",
+        "type": "Стул",
+        "size": "50*50*80см",
+        "price": 34000,
+        "color": "бежевый",
+        "image": "img/стулья/Qanattyq.jpg"
+    },
+    {
+        "name": "QaraSýyeq",
+        "type": "Стул",
+        "size": "60*60*70см",
+        "price": 50000,
+        "color": "бежевый",
+        "image": "img/стулья/QaraSýyeq.jpg"
+    },
+    {
+        "name": "QyranOrnyq",
+        "type": "Стул",
+        "size": "60*60*70см",
+        "price": 45000,
+        "color": "бежевый",
+        "image": "img/стулья/QyranOrnyq.jpg"
+    },
+    {
+        "name": "SálemOrny",
+        "type": "Стул",
+        "size": "70*70*70см",
+        "price": 65000,
+        "color": "бежевый",
+        "image": "img/стулья/SálemOrny.jpg"
+    },
+    {
+        "name": "Shyrpyq",
+        "type": "Стул",
+        "size": "50*50*80см",
+        "price": 40000,
+        "color": "бежевый",
+        "image": "img/стулья/Shyrpyq.jpg"
+    },
+    {
+        "name": "SýyekOrny",
+        "type": "Стул",
+        "size": "70*70*70см",
+        "price": 65000,
+        "color": "бежевый",
+        "image": "img/стулья/SýyekOrny.jpg"
+    },
+    {
+        "name": "Túrshyq",
+        "type": "Стул",
+        "size": "50*50*80см",
+        "price": 27000,
+        "color": "бежевый",
+        "image": "img/стулья/Túrshyq.jpg"
+    },
+    {
+        "name": "Zhaqý",
+        "type": "Стул",
+        "size": "50*50*80см",
+        "price": 27000,
+        "color": "бежевый",
+        "image": "img/стулья/Zhaqý.jpg"
+    },
+    {
+        "name": "Zharqyn",
+        "type": "Стул",
+        "size": "60*60*70см",
+        "price": 75000,
+        "color": "бежевый",
+        "image": "img/стулья/Zharqyn.jpg"
+    },
+    {
+        "name": "Aiqalpaq",
         "type": "Пуфик",
-        "size": "40×40 см",
+        "size": "40*40*45см",
         "price": 15000,
         "color": "синий",
-        "image": "img/кроватьй.webp"
+        "image": "img/пуфик/Aiqalpaq.jpg"
+    },
+    {
+        "name": "Aınalma",
+        "type": "Пуфик",
+        "size": "160*50см",
+        "price": 50000,
+        "color": "синий",
+        "image": "img/пуфик/Aınalma.jpg"
+    },
+    {
+        "name": "Aıqara",
+        "type": "Пуфик",
+        "size": "50*50*45см",
+        "price": 17000,
+        "color": "синий",
+        "image": "img/пуфик/Aıqara.jpg"
+    },
+    {
+        "name": "Asýsha",
+        "type": "Пуфик",
+        "size": "160*45*45см",
+        "price": 27000,
+        "color": "синий",
+        "image": "img/пуфик/Asýsha.jpg"
+    },
+    {
+        "name": "BóbékOrny",
+        "type": "Пуфик",
+        "size": "60*60*45см",
+        "price": 35000,
+        "color": "синий",
+        "image": "img/пуфик/BóbékOrny.jpg"
+    },
+    {
+        "name": "Bóp-Bóp",
+        "type": "Пуфик",
+        "size": "160*50*45см",
+        "price": 75000,
+        "color": "синий",
+        "image": "img/пуфик/Bóp-Bóp.jpg"
+    },
+    {
+        "name": "Domalak",
+        "type": "Пуфик",
+        "size": "160*60*45см",
+        "price": 70000,
+        "color": "синий",
+        "image": "img/пуфик/Domalak.jpg"
+    },
+    {
+        "name": "Jumart",
+        "type": "Пуфик",
+        "size": "50*50*45см",
+        "price": 17000,
+        "color": "синий",
+        "image": "img/пуфик/Jumart.jpg"
+    },
+    {
+        "name": "KókMoyyq",
+        "type": "Пуфик",
+        "size": "160*50*45см",
+        "price": 70000,
+        "color": "синий",
+        "image": "img/пуфик/KókMoyyq.jpg"
+    },
+    {
+        "name": "Kóktaş",
+        "type": "Пуфик",
+        "size": "160*50*45см",
+        "price": 75000,
+        "color": "синий",
+        "image": "img/пуфик/Kóktaş.jpg"
+    },
+    {
+        "name": "Nup-Nup",
+        "type": "Пуфик",
+        "size": "90*45*45см",
+        "price": 45000,
+        "color": "синий",
+        "image": "img/пуфик/Nup-Nup.jpg"
+    },
+    {
+        "name": "Otyrysh",
+        "type": "Пуфик",
+        "size": "160*40*45см",
+        "price": 40000,
+        "color": "синий",
+        "image": "img/пуфик/Otyrysh.jpg"
+    },
+    {
+        "name": "Qaqpaq",
+        "type": "Пуфик",
+        "size": "120*45*45см",
+        "price": 45000,
+        "color": "синий",
+        "image": "img/пуфик/Qaqpaq.jpg"
+    },
+    {
+        "name": "Qarapaiym",
+        "type": "Пуфик",
+        "size": "100*100*45см",
+        "price": 70000,
+        "color": "синий",
+        "image": "img/пуфик/Qarapaiym.jpg"
+    },
+    {
+        "name": "Qompai",
+        "type": "Пуфик",
+        "size": "100*45*45см",
+        "price": 75000,
+        "color": "синий",
+        "image": "img/пуфик/Qompai.jpg"
+    },
+    {
+        "name": "Qorzhyn",
+        "type": "Пуфик",
+        "size": "90*45*45см",
+        "price": 55000,
+        "color": "синий",
+        "image": "img/пуфик/Qorzhyn.jpg"
+    },
+    {
+        "name": "Qumsha",
+        "type": "Пуфик",
+        "size": "40*40*45см",
+        "price": 16000,
+        "color": "синий",
+        "image": "img/пуфик/Qumsha.jpg"
+    },
+    {
+        "name": "Qyrsyqshaq",
+        "type": "Пуфик",
+        "size": "160*50*45см",
+        "price": 75000,
+        "color": "синий",
+        "image": "img/пуфик/Qyrsyqshaq.jpg"
+    },
+    {
+        "name": "Qýyrshaq",
+        "type": "Пуфик",
+        "size": "180*50*45см",
+        "price": 75000,
+        "color": "синий",
+        "image": "img/пуфик/Qýyrshaq.jpg"
+    },
+    {
+        "name": "Shýba",
+        "type": "Пуфик",
+        "size": "60*50*45см",
+        "price": 20000,
+        "color": "синий",
+        "image": "img/пуфик/Shýba.jpg"
+    },
+    {
+        "name": "Shýldirik",
+        "type": "Пуфик",
+        "size": "90*45*45см",
+        "price": 27000,
+        "color": "синий",
+        "image": "img/пуфик/Shýldirik.jpg"
+    },
+    {
+        "name": "Shýrshyq",
+        "type": "Пуфик",
+        "size": "100*45*45см",
+        "price": 45000,
+        "color": "синий",
+        "image": "img/пуфик/Shýrshyq.jpg"
+    },
+    {
+        "name": "SýltanOrny",
+        "type": "Пуфик",
+        "size": "90*45*45см",
+        "price": 40000,
+        "color": "синий",
+        "image": "img/пуфик/SýltanOrny.jpg"
+    },
+    {
+        "name": "Tamaqsha",
+        "type": "Пуфик",
+        "size": "90*45*45см",
+        "price": 32000,
+        "color": "синий",
+        "image": "img/пуфик/Tamaqsha.jpg"
+    },
+    {
+        "name": "Tobyq",
+        "type": "Пуфик",
+        "size": "120*45*45см",
+        "price": 30000,
+        "color": "синий",
+        "image": "img/пуфик/Tobyq.jpg"
+    },
+    {
+        "name": "Tómendik",
+        "type": "Пуфик",
+        "size": "см",
+        "price": 25000,
+        "color": "синий",
+        "image": "img/пуфик/Tómendik.jpg"
+    },
+    {
+        "name": "Týbelek",
+        "type": "Пуфик",
+        "size": "40*40*45см",
+        "price": 22000,
+        "color": "синий",
+        "image": "img/пуфик/Týbelek.jpg"
+    },
+    {
+        "name": "Týqsha",
+        "type": "Пуфик",
+        "size": "40*40*45см",
+        "price": 25000,
+        "color": "синий",
+        "image": "img/пуфик/Týqsha.jpg"
+    },
+    {
+        "name": "Ushqyn",
+        "type": "Пуфик",
+        "size": "90*45*45см",
+        "price": 33000,
+        "color": "синий",
+        "image": "img/пуфик/Ushqyn.jpg"
+    },
+    {
+        "name": "ZhaiOrnyq",
+        "type": "Пуфик",
+        "size": "90*45*45см",
+        "price": 33000,
+        "color": "синий",
+        "image": "img/пуфик/ZhaiOrnyq.jpg"
     }
 ]
