@@ -1,17 +1,369 @@
 [
     {
-        "name": "Диван Asajai",
+        "name": "Ádemi",
         "type": "диван",
-        "size": "230×90×85 см",
+        "size": "200*100*90см",
+        "price": 270000,
+        "color": "бежевый",
+        "image": "img/диван/Ádemi.jpg"
+    },
+    {
+        "name": "AlQyryq",
+        "type": "диван",
+        "size": "200*75*90см",
+        "price": 80000,
+        "color": "бежевый",
+        "image": "img/диван/AlQyryq.jpg"
+    },
+    {
+        "name": "AltynShańyraq",
+        "type": "диван",
+        "size": "200*75*90см",
+        "price": 80000,
+        "color": "бежевый",
+        "image": "img/диван/AltynShańyraq.jpg"
+    },
+    {
+        "name": "AqShatyr",
+        "type": "диван",
+        "size": "200*75*90см",
+        "price": 180000,
+        "color": "бежевый",
+        "image": "img/диван/AqShatyr.jpg"
+    },
+    {
+        "name": "ArqaJaily",
+        "type": "диван",
+        "size": "250*90*70см",
+        "price": 180000,
+        "color": "бежевый",
+        "image": "img/диван/ArqaJaily.jpg"
+    },
+    {
+        "name": "AsaJai",
+        "type": "диван",
+        "size": "200*75*90см",
+        "price": 80000,
+        "color": "бежевый",
+        "image": "img/диван/AsaJai.jpg"
+    },
+    {
+        "name": "Asqar",
+        "type": "диван",
+        "size": "200*80*70см",
+        "price": 240000,
+        "color": "бежевый",
+        "image": "img/диван/Asqar.jpg"
+    },
+    {
+        "name": "AsylArman",
+        "type": "диван",
+        "size": "250*90*80см",
+        "price": 250000,
+        "color": "бежевый",
+        "image": "img/диван/AsylArman.jpg"
+    },
+    {
+        "name": "Báiberek",
+        "type": "диван",
+        "size": "160*75*80см",
+        "price": 75000,
+        "color": "бежевый",
+        "image": "img/диван/Báiberek.jpg"
+    },
+    {
+        "name": "Bárqaý",
+        "type": "диван",
+        "size": "300*160*80*75см",
+        "price": 280000,
+        "color": "бежевый",
+        "image": "img/диван/Bárqaý.jpg"
+    },
+    {
+        "name": "Békzat",
+        "type": "диван",
+        "size": "160*80*75см",
+        "price": 150000,
+        "color": "бежевый",
+        "image": "img/диван/Békzat.jpg"
+    },
+    {
+        "name": "Bóbek",
+        "type": "диван",
+        "size": "280*80*70см",
+        "price": 130000,
+        "color": "бежевый",
+        "image": "img/диван/Bóbek.jpg"
+    },
+    {
+        "name": "Jailau",
+        "type": "диван",
+        "size": "320*160*90*70см",
+        "price": 320000,
+        "color": "бежевый",
+        "image": "img/диван/Jailau.jpg"
+    },
+    {
+        "name": "Janar",
+        "type": "диван",
+        "size": "180*70*80см",
+        "price": 180000,
+        "color": "бежевый",
+        "image": "img/диван/Janar.jpg"
+    },
+    {
+        "name": "Kóksheleń",
+        "type": "диван",
+        "size": "250*90*70см",
+        "price": 380000,
+        "color": "бежевый",
+        "image": "img/диван/Kóksheleń.jpg"
+    },
+    {
+        "name": "Kóktem",
+        "type": "диван",
+        "size": "180*60*80см",
+        "price": 140000,
+        "color": "бежевый",
+        "image": "img/диван/Kóktem.jpg"
+    },
+    {
+        "name": "KúnSáуле",
+        "type": "диван",
+        "size": "350*80*75см",
+        "price": 320000,
+        "color": "бежевый",
+        "image": "img/диван/KúnSáуле.jpg"
+    },
+    {
+        "name": "NúrQonyr",
+        "type": "диван",
+        "size": "350*350см",
+        "price": 420000,
+        "color": "бежевый",
+        "image": "img/диван/NúrQonyr.jpg"
+    },
+    {
+        "name": "Qamqor",
+        "type": "диван",
+        "size": "200*85*70см",
+        "price": 210000,
+        "color": "бежевый",
+        "image": "img/диван/Qamqor.jpg"
+    },
+    {
+        "name": "Qomaqai",
+        "type": "диван",
+        "size": "300*80*75см",
+        "price": 310000,
+        "color": "бежевый",
+        "image": "img/диван/Qomaqai.jpg"
+    },
+    {
+        "name": "QonyrJai",
+        "type": "диван",
+        "size": "140*80*75см",
+        "price": 90000,
+        "color": "бежевый",
+        "image": "img/диван/QonyrJai.jpg"
+    },
+    {
+        "name": "QumTústi",
+        "type": "диван",
+        "size": "250*100*80см",
+        "price": 350000,
+        "color": "бежевый",
+        "image": "img/диван/QumTústi.jpg"
+    },
+    {
+        "name": "Quralai",
+        "type": "диван",
+        "size": "200*80*80см",
+        "price": 200000,
+        "color": "бежевый",
+        "image": "img/диван/Quralai.jpg"
+    },
+    {
+        "name": "QúshAldy",
+        "type": "диван",
+        "size": "250*100*80см",
+        "price": 350000,
+        "color": "бежевый",
+        "image": "img/диван/QúshAldy.jpg"
+    },
+    {
+        "name": "Qyzgaldak",
+        "type": "диван",
+        "size": "300*200см",
+        "price": 330000,
+        "color": "бежевый",
+        "image": "img/диван/Qyzgaldak.jpg"
+    },
+    {
+        "name": "Sálem",
+        "type": "диван",
+        "size": "180*85*75см",
+        "price": 190000,
+        "color": "бежевый",
+        "image": "img/диван/Sálem.jpg"
+    },
+    {
+        "name": "Samal",
+        "type": "диван",
+        "size": "160*80*75см",
+        "price": 75000,
+        "color": "бежевый",
+        "image": "img/диван/Samal.jpg"
+    },
+    {
+        "name": "Sátti",
+        "type": "диван",
+        "size": "300*100*70см",
+        "price": 320000,
+        "color": "бежевый",
+        "image": "img/диван/Sátti.jpg"
+    },
+    {
+        "name": "Shabyt",
+        "type": "диван",
+        "size": "200*70см",
+        "price": 180000,
+        "color": "бежевый",
+        "image": "img/диван/Shabyt.jpg"
+    },
+    {
+        "name": "Shańyraq",
+        "type": "диван",
+        "size": "400*70*75см",
+        "price": 350000,
+        "color": "бежевый",
+        "image": "img/диван/Shańyraq.jpg"
+    },
+    {
+        "name": "Shaqyrý",
+        "type": "диван",
+        "size": "160*80*75см",
+        "price": 75000,
+        "color": "бежевый",
+        "image": "img/диван/Shaqyrý.jpg"
+    },
+    {
+        "name": "Shattyq",
+        "type": "диван",
+        "size": "200*70*80см",
+        "price": 120000,
+        "color": "бежевый",
+        "image": "img/диван/Shattyq.jpg"
+    },
+    {
+        "name": "Shyrai",
+        "type": "диван",
+        "size": "180*75*75см",
+        "price": 140000,
+        "color": "бежевый",
+        "image": "img/диван/Shyrai.jpg"
+    },
+    {
+        "name": "SuluJai",
+        "type": "диван",
+        "size": "120*75*80см",
+        "price": 75000,
+        "color": "бежевый",
+        "image": "img/диван/SuluJai.jpg"
+    },
+    {
+        "name": "Syrly",
+        "type": "диван",
+        "size": "120*75*80см",
+        "price": 75000,
+        "color": "бежевый",
+        "image": "img/диван/Syrly.jpg"
+    },
+    {
+        "name": "Tumar",
+        "type": "диван",
+        "size": "180*75*75см",
+        "price": 160000,
+        "color": "бежевый",
+        "image": "img/диван/Tumar.jpg"
+    },
+    {
+        "name": "TúsKórinís",
+        "type": "диван",
+        "size": "200*80*80см",
+        "price": 260000,
+        "color": "бежевый",
+        "image": "img/диван/TúsKórinís.jpg"
+    },
+    {
+        "name": "Tynys",
+        "type": "диван",
+        "size": "120*80*100см",
+        "price": 80000,
+        "color": "бежевый",
+        "image": "img/диван/Tynys.jpg"
+    },
+    {
+        "name": "TynysTán",
+        "type": "диван",
+        "size": "200*90*75см",
+        "price": 320000,
+        "color": "бежевый",
+        "image": "img/диван/TynysTán.jpg"
+    },
+    {
+        "name": "ZhailyQun",
+        "type": "диван",
+        "size": "140*75*80см",
+        "price": 120000,
+        "color": "бежевый",
+        "image": "img/диван/ZhailyQun.jpg"
+    },
+    {
+        "name": "ZhaiQala",
+        "type": "диван",
+        "size": "180*75*75см",
+        "price": 180000,
+        "color": "бежевый",
+        "image": "img/диван/ZhaiQala.jpg"
+    },
+    {
+        "name": "ZhanaKún",
+        "type": "диван",
+        "size": "150*150см",
+        "price": 120000,
+        "color": "бежевый",
+        "image": "img/диван/ZhanaKún.jpg"
+    },
+    {
+        "name": "ZhibekJol",
+        "type": "диван",
+        "size": "320*90*70см",
+        "price": 300000,
+        "color": "бежевый",
+        "image": "img/диван/ZhibekJol.jpg"
+    },
+    {
+        "name": "Кровать Queen",
+        "type": "кровать",
+        "size": "200×160 см",
+        "price": 15000,
+        "color": "синий",
+        "image": "img/кроватьй.webp"
+    },
+    {
+        "name": "Диван Asajai",
+        "type": "Стул",
+        "size": "80×50×50 см",
         "price": 260000,
         "color": "бежевый",
         "image": "img/диван.jpg"
     },
     {
         "name": "Кровать Queen",
-        "type": "кровать",
-        "size": "200×160 см",
-        "price": 320000,
+        "type": "Пуфик",
+        "size": "40×40 см",
+        "price": 15000,
         "color": "синий",
         "image": "img/кроватьй.webp"
     }
