@@ -2,23 +2,68 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
+    background-color: #f5f5f5;
 }
 
+
 header,
+.title {
+    font-family: "Georgia", serif;
+    /* стильный шрифт */
+    font-size: 48px;
+    /* размер */
+    color: #2c3e50;
+    /* цвет текста */
+    text-align: center;
+    /* выравнивание */
+}
+
+
 footer {
-    background-color: #333;
-    color: #fff;
+    background-color: #f5f5f5;
+    color: #656565;
     padding: 1rem;
     text-align: center;
 }
 
+/* Общая секция фильтра */
 .filters {
+    background: rgba(255, 255, 255, 0.8);
+    /* полупрозрачный белый фон */
+    padding: 15px;
+    margin: 20px auto;
+    border-radius: 10px;
+    width: fit-content;
     display: flex;
-    gap: 1rem;
-    justify-content: center;
-    padding: 1rem;
-    background-color: #f5f5f5;
+    gap: 10px;
+    align-items: center;
 }
+
+/* Селект и инпут */
+.filters select,
+.filters input {
+    padding: 8px 12px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    font-size: 14px;
+}
+
+/* Кнопка */
+.filters button {
+    padding: 8px 15px;
+    background-color: #4CAF50;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    font-size: 14px;
+    transition: 0.3s;
+}
+
+.filters button:hover {
+    background-color: #45a049;
+}
+
 
 .catalog {
     display: grid;
@@ -32,7 +77,7 @@ footer {
     border-radius: 8px;
     padding: 1rem;
     text-align: center;
-    background-color: #fff;
+    background-color: #ffffff;
 }
 
 .card img {
