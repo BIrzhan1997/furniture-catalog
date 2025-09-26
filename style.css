@@ -7,6 +7,7 @@ body {
 
 
 header,
+
 .title {
     font-family: "Georgia", serif;
     /* стильный шрифт */
@@ -26,50 +27,61 @@ footer {
     text-align: center;
 }
 
-/* Общая секция фильтра */
+/* Общие стили */
+* {
+    box-sizing: border-box;
+    /* чтобы padding не увеличивал ширину */
+}
+
 .filters {
-    background: rgba(255, 255, 255, 0.8);
-    /* полупрозрачный белый фон */
+    background: rgba(255, 255, 255, 0.9);
     padding: 15px;
-    margin: 20px auto;
+    margin: 10px;
     border-radius: 10px;
-    width: fit-content;
     display: flex;
+    flex-wrap: wrap;
+    /* если не помещается, переносим */
     gap: 10px;
-    align-items: center;
+    justify-content: center;
 }
 
-/* Селект и инпут */
-.filters select,
-.filters input {
-    padding: 8px 12px;
-    border-radius: 5px;
-    border: 1px solid #ccc;
-    font-size: 14px;
-}
-
-/* Кнопка */
 .filters button {
-    padding: 8px 15px;
+    padding: 10px 15px;
     background-color: #4CAF50;
+    /* зелёный фон */
     border: none;
     border-radius: 5px;
     color: white;
     cursor: pointer;
-    font-size: 14px;
+    font-size: 16px;
     transition: 0.3s;
+    -webkit-appearance: none;
+    /* убираем стандартный стиль iOS/Android */
+    appearance: none;
+    /* убираем стандартный стиль */
 }
 
 .filters button:hover {
     background-color: #45a049;
 }
 
+/* элементы */
+.filters select,
+.filters input,
+.filters button {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    font-size: 16px;
+}
+
+/* 📱 Мобильный стиль */
 @media (max-width: 600px) {
     .filters {
         width: 100%;
         /* на всю ширину */
         flex-direction: column;
-        /* расположение в колонку */
+        /* вертикально */
         align-items: stretch;
         /* растягиваем элементы */
     }
@@ -78,8 +90,7 @@ footer {
     .filters input,
     .filters button {
         width: 100%;
-        /* каждый элемент занимает всю ширину */
-        font-size: 16px;
+        /* элементы занимают всю ширину */
     }
 }
 
