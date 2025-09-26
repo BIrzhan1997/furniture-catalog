@@ -64,6 +64,24 @@ footer {
     background-color: #45a049;
 }
 
+@media (max-width: 600px) {
+    .filters {
+        width: 100%;
+        /* на всю ширину */
+        flex-direction: column;
+        /* расположение в колонку */
+        align-items: stretch;
+        /* растягиваем элементы */
+    }
+
+    .filters select,
+    .filters input,
+    .filters button {
+        width: 100%;
+        /* каждый элемент занимает всю ширину */
+        font-size: 16px;
+    }
+}
 
 .catalog {
     display: grid;
